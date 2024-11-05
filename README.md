@@ -1,2 +1,0 @@
-local Bijan = {}
-return Bijan
